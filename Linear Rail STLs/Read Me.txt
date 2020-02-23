@@ -1,0 +1,9 @@
+Print list:
+
+3x Bearing Spacer
+6x Corner Bracket 
+4x Front Rail Guard
+
+I recommend 4 walls and 30% gyroid infill as it'll make the parts sturdy.
+
+Make sure you are using the latest MK3s Bear printed Parts V2.0 or newer. You need to have the newest Y axis because it uses the Belt holder under the carriage to bump into the Y axis motor holder. Without this it will not pass Prusa Self Test. If you aren't using ours firmware this warning won't be an issue.
