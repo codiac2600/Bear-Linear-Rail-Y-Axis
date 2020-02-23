@@ -1,0 +1,29 @@
+Instaling the Dual Linear Rail Y axis for the Bear MK3/s
+
+Print all the parts as noted
+
+Attach linear rail to each 2020 V slot using the M3 8mm screws and the M3 T nuts.
+
+Mount Rail and Extrusion to the frame using the printed 90 degree brackets with 2 in the front and 
+1 in the back away from the Y axis motor leaving the right most extrusion and rail loose to move later.
+
+Loosen all screws on the left most linear rail. 
+
+Using calipers make sure to align the rail 94.40mm from the left of the frame front and back. Continue
+to tighen the screws making sure the rail stays aligned. 
+
+Attach the Spacers on each bearing with the orientation small end toward the back.
+
+Attach the carriage to the spacers shifting the right most rail and extrusion so it lines up.
+
+Tighten the Extrusion to the frame.
+
+Loosen all screws on right most linear rail.
+
+Move the carriage as far forward as possible and tighten the most forward screw on the rail to the extrusion.
+
+Slide the carriage as far back it would go and tighen the back most m3 screw.
+
+Tighten all the rest of the m3 screws.
+
+Repeat the process if your bed isn't sliding smoothly. 
